@@ -1,0 +1,62 @@
+
+
+body{
+  font-family: 'Lato', sans-serif;
+  font-family: 'Merriweather', serif;
+}
+
+.nav-link{
+  font-size: 2rem;
+}
+
+.n-background{
+  background-color: #9dab86;
+}
+
+.s-background{
+  background-color: #9dab86;
+}
+.s-background:hover{
+  background-color: #9dab96;
+
+}
+
+.t-background{
+
+  background-image: url(../images/31_background.jpg);
+  background-size:cover;
+  background-position: center;
+}
+
+.j-background{
+  background-color: #eafbea;
+}
+
+.h1-top{
+  font-family: 'Sacramento', cursive;
+  font-size: 72px;
+  font-weight: bold;
+
+}
+
+.b-color{
+  background-color: #55ae95;
+
+}
+
+
+/* footer */
+
+.f-color{
+  color: #3c5998;
+}
+.t-color{
+  color: #429cd6;
+}
+
+.i-color{
+  color: #ca1e6a;
+}
+.y-color{
+  color: #ff0000;
+}
